@@ -1,7 +1,7 @@
 !define cx_freezeOutputDir 'build\exe.win-amd64-3.8'
 !define exe             'ToggleHyperV.exe'
 !define icon            'build\icon.ico'
-;!define compressor      'lzma'  ;one of 'zlib', 'bzip2', 'lzma'
+!define compressor      'lzma'  ;one of 'zlib', 'bzip2', 'lzma'
 !define onlyOneInstance
 !include FileFunc.nsh
 !insertmacro GetParameters
