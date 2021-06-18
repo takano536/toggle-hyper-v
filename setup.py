@@ -19,15 +19,11 @@ includes = [
 ]
 excludes = [
     "asyncio",
-    # "collections",
     "concurrent",
-    # "ctypes",
     "distutils",
     "email",
-    # "encodings",
     "html",
     "http",
-    # "importlib",
     "lib2to3",
     "logging",
     "multiprocessing",
@@ -46,7 +42,7 @@ exe = Executable(
 )
 
 setup(
-    name='main',
+    name='toggle_Hyper-V',
     options={
         "build_exe": {
             "packages": packages,
@@ -54,7 +50,7 @@ setup(
             "excludes": excludes,
         }
     },
-    version='0.1',
-    description='converter',
+    version='1.0',
+    description='',
     executables=[exe]
 )
