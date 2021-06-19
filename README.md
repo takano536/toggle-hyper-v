@@ -6,7 +6,8 @@ You can download the binary file from [this release page](https://github.com/tak
 
 ## Usage
 ToggleHyperV.exe is a command line tool. Double-click to launch it. Run as administrator.  
-The first line will show whether Hyper-V is now activated or not. The second line will ask if you want to switch Hyper-V.
+The first line will show whether Hyper-V is now activated or not.  
+The second line will ask if you want to switch Hyper-V.
 ```
 Hyper-V is deactivated
 Do you want to switch to Hyper-V? [Y/n] >
@@ -18,4 +19,4 @@ Do you want to reboot? [Y/n] >
 ```
 
 ## License
-This software is released under the MIT License, see LICENSE.
+This software is released under the MIT License, see [LICENSE](https://github.com/takano536/toggle-hyper-v/blob/master/LICENSE).
