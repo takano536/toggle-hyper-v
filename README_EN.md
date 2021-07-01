@@ -13,6 +13,8 @@ Do you want to switch to Hyper-V? [Y/n] >
 ```
 If you switch Hyper-V, you will be asked if you want to reboot, because Hyper-V will not switch completely without a reboot.
 ```
+Hyper-V is deactivated
+Do you want to switch to Hyper-V? [Y/n] > Yes
 Hyper-V switching finished successfully
 Do you want to reboot? [Y/n] >
 ```
