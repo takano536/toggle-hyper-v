@@ -20,4 +20,4 @@ Do you want to reboot? [Y/n] >
 ```
 
 ## License
-This software is released under the MIT License, see LICENSE.
+This software is released under the MIT License, see [LICENSE](LICENSE).
