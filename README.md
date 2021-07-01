@@ -21,4 +21,4 @@ Do you want to reboot? [Y/n] >
 ```
 
 ## ライセンス
-本ソフトは無保証です。詳しくは[LICENSE](https://github.com/takano536/toggle-hyper-v/blob/master/LICENSE)を御覧ください。
+本ソフトは無保証です。詳しくは[LICENSE](https://github.com/takano536/toggle-hyper-v/blob/master/LICENSE)をご覧ください。
