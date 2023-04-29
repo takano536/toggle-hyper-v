@@ -18,7 +18,7 @@ Hyper-V is deactivated
 Do you want to switch to Hyper-V? [Y/n] > Yes
 Hyper-V switching finished successfully
 Do you want to reboot? [Y/n] >
-
 ```
+
 ## ライセンス
 本ソフトは無保証です。詳しくは[LICENSE](https://github.com/takano536/toggle-hyper-v/blob/master/LICENSE)をご覧ください。
